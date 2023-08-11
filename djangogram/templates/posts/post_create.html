@@ -1,0 +1,22 @@
+{% extends "posts/base.html" %}
+
+{% block content %}
+
+<div class="post-create">
+    <div>
+        create POST
+    </div>
+    <div class="form">
+        <form action="{% url 'posts:post_create' %}"
+            method="post"
+            enctype="multipart/form-data">
+
+        {% csrf_token %}
+        <!-- 자동으로 p 태그 적용됨 -->
+        {{form.as_p}}
+            <input type="submit" value="Create">
+        </form>
+    </div>
+</div>
+
+{% endblock content %}
