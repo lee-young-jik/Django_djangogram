@@ -11,6 +11,7 @@
 <div>
 <p>1.Login 화면</p>
 </div>
+https://github.com/lee-young-jik/Django_djangogram/issues/1#issue-1848791077
 
 <div>2.회원가입</div>
 
