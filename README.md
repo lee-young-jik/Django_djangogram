@@ -29,10 +29,10 @@
 <img src = "https://github.com/lee-young-jik/Django_djangogram/assets/91588673/ca5a791b-91d0-4c98-aeb9-0b438968a965"> 
 
 <div>5.추가 개발 사항</div>
-  <div>  1.좋아요 기능 추가</div>
-  <div>  2.댓글을 달수 있도록 구현</div>
-  <div>  3.UI 부분을 실제와 유사하도록 구현</div>
-  <div>  4.실제 배포까지 구현</div>
+  <div>  >좋아요 기능 추가</div>
+  <div>  >댓글을 달수 있도록 구현</div>
+  <div>  >UI 부분을 실제와 유사하도록 구현</div>
+  <div>  >실제 배포까지 구현</div>
   
 
 
