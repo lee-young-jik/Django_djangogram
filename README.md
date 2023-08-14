@@ -19,6 +19,8 @@
 
 
 <div>3.피드</div>
+<img src = "https://github.com/lee-young-jik/Django_djangogram/assets/91588673/17c77961-a250-40d0-958e-41fbbaf2598d"> 
+
 
 <div>4.추가 개발 사항</div>
 
