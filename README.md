@@ -11,9 +11,8 @@
 <div>
 <p>1.Login 화면</p>
 </div>
+![스크린샷 2023-08-14 085345](https://github.com/lee-young-jik/Django_djangogram/assets/91588673/ffb42ba8-6ad1-4b51-94ed-593c7e810b9f)
 
-<img width="863" alt="image" src="https://github.com/lee-young-jik/Django_djangogram/assets/91588673/1daeca92-e58e-4e1c-8e32-b4444ff0ec7f.png
-">
 <div>2.회원가입</div>
 
 
