@@ -1,4 +1,4 @@
-# 제목 : djangogram
+# 주제 : djangogram
 <hr>
 <h2>작성자 : 이영직</h2>
 <hr>
