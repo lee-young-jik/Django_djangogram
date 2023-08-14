@@ -20,9 +20,11 @@
 
 <div>3.피드</div>
 <img src = "https://github.com/lee-young-jik/Django_djangogram/assets/91588673/17c77961-a250-40d0-958e-41fbbaf2598d"> 
+<div>5.사진 추가</div>
+<img src = "https://github.com/lee-young-jik/Django_djangogram/assets/91588673/ca5a791b-91d0-4c98-aeb9-0b438968a965"> 
+
+<div>5.추가 개발 사항</div>
 
 
-<div>4.추가 개발 사항</div>
 
-
-<div>5.DB</div>
+<div>6.DB</div>
