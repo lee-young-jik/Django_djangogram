@@ -12,7 +12,7 @@
 <p>1.Login 화면</p>
 </div>
 
-<img width="863" alt="image" src="https://github.com/lee-young-jik/Django_djangogram/assets/91588673/1daeca92-e58e-4e1c-8e32-b4444ff0ec7f
+<img width="863" alt="image" src="https://github.com/lee-young-jik/Django_djangogram/assets/91588673/1daeca92-e58e-4e1c-8e32-b4444ff0ec7f.png
 ">
 <div>2.회원가입</div>
 
