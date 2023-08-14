@@ -15,7 +15,9 @@
 
 
 <div>2.회원가입</div>
-  <img src = "https://github.com/lee-young-jik/Django_djangogram/issues/2#issue-1848796197"> 
+  <img src = "https://github.com/lee-young-jik/Django_djangogram/assets/91588673/e11c9abe-3e95-42d0-bf3f-dc77b0459c4d"> 
+
+
 <div>3.피드</div>
 
 <div>4.추가 개발 사항</div>
